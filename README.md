@@ -1,2 +1,2 @@
 # Linguo
-Electron app for manage JSON translate files
+A simple Electron app for manage JSON translate files
